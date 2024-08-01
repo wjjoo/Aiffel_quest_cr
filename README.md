@@ -33,6 +33,19 @@ AIFFEL_quest_cr
 │   └── Quest08
 │       ├── .ipynb
 │       └── README.md
+├── Python
+│   ├── Py01
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Py02
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Py03
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Py04
+│   │   ├── .ipynb
+│   │   └── README.md
 ├── Flutter
 │   ├── F01
 │   │   ├── F01_project
