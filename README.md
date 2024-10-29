@@ -6,7 +6,6 @@
 ---
 
 ##### 레포 구조:
-
 ```bash
 AIFFEL_quest_cr
 ├── MainQuest
